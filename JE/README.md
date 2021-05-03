@@ -1,5 +1,7 @@
 ## 🐰 [Lee JE](https://github.com/jane096)
 
+지은 테스트
+
 <br>
 
 ## 📅 Week
