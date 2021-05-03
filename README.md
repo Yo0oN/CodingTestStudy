@@ -13,6 +13,7 @@
 - 🐕‍🦺 [hanseokyoung](https://github.com/hanseokyoung)
 - 🐰 [Lee JE](https://github.com/jane096)
 - 🐍 [YoonJeong](https://github.com/Yo0oN)
+- 🙊 [juhee2](https://github.com/juhee2)
 
 <br>
 
