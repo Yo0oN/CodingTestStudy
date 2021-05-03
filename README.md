@@ -6,6 +6,14 @@
 - 언어는 Python 또는 Java를 이용합니다.
 - 문제는 [백준](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/), [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 풉니다.
 
+
+### 🙋 참가자
+
+- 🐕‍🦺 [hanseokyoung](https://github.com/hanseokyoung)
+- 🐰 [Lee JE](https://github.com/jane096)
+- 🐍 [YoonJeong](https://github.com/Yo0oN)
+
+
 ### 📅 Week
 
 |주차|문제1|문제2|문제3|
