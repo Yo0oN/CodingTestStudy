@@ -8,6 +8,15 @@
 
 <br>
 
+## 🚀 규칙
+
+- `참가자-문제제목`으로 브랜치를 생성 후 코드 작성이 완료되면 PR을 날립니다.
+- PR 시 Reviewrs는 본인을 제외한 모든 참가자를, Assignees는 본인을 추가합니다.
+- Reviewrs는 코드리뷰를 통해 질문을 하며, 질문이 없을 경우 `Approve` 버튼을 클릭합니다.
+- 모든 Reviewrs의 승인을 받으면 master 브랜치에 Merge할 수 있습니다.
+
+<br>
+
 ## 🙋 참가자
 
 - 🐕‍🦺 [hanseokyoung](https://github.com/hanseokyoung)
