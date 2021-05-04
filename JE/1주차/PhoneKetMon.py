@@ -7,7 +7,6 @@ def solution(nums):
 
     if lengthSetNums > pick:
         answer = pick
-        return answer
 
     else:
         answer = lengthSetNums
