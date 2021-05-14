@@ -1,5 +1,3 @@
-
-
 # 모든 테스트 케이스 통과
 def solution(n, lost, reserve):
     answer = 0
@@ -17,7 +15,7 @@ def solution(n, lost, reserve):
             reserve.remove(i)
             answer += 1
 
-        if i-1 in reserve:
+        elif i-1 in reserve:
             reserve.remove(i-1)
             answer += 1
 
