@@ -33,4 +33,5 @@
 |주차|문제1|문제2|문제3|
 |:-----:|:-----:|:-----:|:-----:|
 |1주차(210503~)|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|
-|2주차(20210510~)|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+|2주차(210510~)|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|
+|3주차(210517~)|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|
