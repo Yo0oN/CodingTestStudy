@@ -1,5 +1,6 @@
 import itertools
 
+
 def solution(nums):
     answer = 0
     numsList = list(itertools.combinations(nums, 3))
@@ -8,13 +9,13 @@ def solution(nums):
         check = sum(i)
         result = isPrime(check)
 
-        if result == True:
+        if result:
             answer += 1
 
     return answer
 
-def isPrime(sumOfNums):
 
+def isPrime(sumOfNums):
     for i in range(2, sumOfNums):
         if sumOfNums % i == 0:
             break
