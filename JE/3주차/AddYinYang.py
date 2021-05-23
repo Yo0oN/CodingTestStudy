@@ -2,15 +2,12 @@ def solution(absolutes, signs):
     answer = 0
     result = []
 
-    for num, absN in zip(absolutes, signs):
-        if absN == False and num > 0:
-            result.append(num * -1)
-
-        elif absN == True and num < 0:
-            result.append(num * -1)
+    for num, sign in zip(absolutes, signs):
+        if sign :
+            result.append(num)
 
         else:
-            result.append(num)
+            result.append(num * -1)
 
     answer = sum(result)
     return answer
