@@ -2,12 +2,7 @@ def solution(progresses, speeds):
     answer = []
     flag = 0
     
-    while True :
-        if not progresses :
-            answer.append(flag)
-            flag = 0
-            break
-            
+    while progresses :
         q, r = divmod((100 - progresses[0]), speeds[0])
         
         if progresses[0] >= 100 :
@@ -23,5 +18,7 @@ def solution(progresses, speeds):
         if flag != 0 :
             answer.append(flag)
             flag = 0
+            
+    answer.append(flag)
     
     return answer
