@@ -36,3 +36,4 @@
 |2주차(210510~)|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|
 |3주차(210517~)|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|
 |4주차(210524~)|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|
+|5주차(210531~)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|
