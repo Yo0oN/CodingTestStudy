@@ -11,4 +11,4 @@ def solution(scoville, K):
         heapq.heappush(scoville, spicy)
         answer += 1
     
-    return answer if scoville[0] > K else -1
+    return answer if scoville[0] >= K else -1
