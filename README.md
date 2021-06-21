@@ -39,3 +39,4 @@
 |5주차(210531~)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|
 |6주차(210607~)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|
 |7주차(210614~)|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|
+|8주차(210621~)|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
