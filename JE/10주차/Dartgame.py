@@ -1,5 +1,5 @@
 def solution(dartResult):
-    answer = 0  # 10의 처리를 위해 문자열로 선언
+    answer = 0
     score = []
     sdt = {'S':1, 'D':2, 'T':3}
 
@@ -17,15 +17,17 @@ def solution(dartResult):
         elif letter.isdigit() and int(letter) == 0 and answer == 1:
             answer = 10
 
-        # 보너스 점수 계산하기
+        # 보너스 점수(SDT) 계산하기
         elif letter in sdt:
             score.append(answer ** sdt[letter])
             answer = 0  # 다음 점수 계산을 위해 초기화
 
+        # 맨 마지막 점수와 그 이전 점수만 x2를 해주기 때문에 score[-2:] 만큼 잘라서 target에 저장 후 곱셈연산 진행
         elif letter == '*':
             target = score[-2:]
             score[-2:] = [i * 2 for i in target]
 
+        # score의 맨 마지막 점수를 음수로 변경한다.
         elif letter == '#':
             score[-1] = -score[-1]
 
