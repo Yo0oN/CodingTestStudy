@@ -48,3 +48,4 @@
 |15주차(210809~)|[1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|
 |16주차(210816~)|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|
 |17주차(210823~)|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|
+|18주차(210830~)|[핸드폰번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|
