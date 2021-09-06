@@ -45,7 +45,9 @@
 |11주차(210712~)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|
 |12주차(210719~)|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|
 |13주차(210726~)|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|
+|14주차(210802~)|이번주는 쉬어갑니다|이전문제를|끝내주세요|
 |15주차(210809~)|[1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|
 |16주차(210816~)|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|
 |17주차(210823~)|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|
 |18주차(210830~)|[핸드폰번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|
+|19주차(210906~)|이번주는 쉬어갑니다|이전문제를|끝내주세요|
