@@ -53,3 +53,4 @@
 |19주차(210906~)|이번주는 쉬어갑니다|이전문제를|끝내주세요|
 |20주차(210913~)|[하샤드수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|
 |21주차(210920~)|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|
+|22주차(210927~)|[수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[5주차_모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|
