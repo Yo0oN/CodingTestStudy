@@ -54,3 +54,4 @@
 |20주차(210913~)|[하샤드수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|
 |21주차(210920~)|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|
 |22주차(210927~)|[수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[5주차_모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|
+|23주차(211005~)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|
