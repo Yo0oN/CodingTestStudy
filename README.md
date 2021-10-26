@@ -54,5 +54,7 @@
 |20주차(210913~)|[하샤드수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|
 |21주차(210920~)|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|
 |22주차(210927~)|[수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[5주차_모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|
-|23주차(211005~)|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|
-|24주차(211012~)|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[트리 순회](https://www.acmicpc.net/problem/1991)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
+|23주차(211004~)|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|
+|24주차(211011~)|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[트리 순회](https://www.acmicpc.net/problem/1991)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
+|25주차(211018~)|이번주는 쉬어갑니다|이전문제를|끝내주세요|
+|중단|중단|중단|중단|
